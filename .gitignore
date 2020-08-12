@@ -1,0 +1,5 @@
+*.h5
+
+__pycharm__/
+__pycache__/
+.idea
